@@ -29,6 +29,9 @@ The main questions used to investigate are the following:
  
 ## Getting started
 
+Download the datasets of 2015 to 2020 from https://insights.stackoverflow.com/survey
+
+
 Clone this repository
 
 ```shell
