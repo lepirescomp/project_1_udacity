@@ -4,7 +4,7 @@
 
 This project is a part of the [Data Science NanoDegree Udacity](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
 
-#### -- Project Status: [Avaliation]
+#### -- Project Status: [Approved]
 
 ## Project Description
 
